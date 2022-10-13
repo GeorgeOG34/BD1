@@ -20,5 +20,8 @@ And finally the bot also has a basically addition and subtraction calulator, whi
 .addbal NUMBER -- adds that number to the current balance
 .balance -- the bot replys with the current balance.
 
-
 Final note, I've attempted to write the bd1.py asynchronously so that crypto monitor, ultrasonic sensor & discord bot can all run at the same time off of one script.
+
+
+THE servo.py FILE:
+This file should only be run if you want the servos to move, which I don't always want, which is why its in a seperate file. If however you do want the servos to move then you should run both the files, so that when the Ultra sonic sensor detects something within 15cm, the neck of BD1 can tilt backwards.
