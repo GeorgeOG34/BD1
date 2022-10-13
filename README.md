@@ -19,3 +19,6 @@ And finally the bot also has a basically addition and subtraction calulator, whi
 .minusbal NUMBER -- minuses that number from the current balance
 .addbal NUMBER -- adds that number to the current balance
 .balance -- the bot replys with the current balance.
+
+
+Final note, I've attempted to write the bd1.py asynchronously so that crypto monitor, ultrasonic sensor & discord bot can all run at the same time off of one script.
