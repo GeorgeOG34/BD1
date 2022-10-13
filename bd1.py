@@ -208,7 +208,7 @@ async def us():
                 f.close()
                 # time.sleep(0.5)
             if Distance < 45:
-                msg('.cam1')
+                
                 msg('.capture')
 
 
