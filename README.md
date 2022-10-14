@@ -1,6 +1,6 @@
 # BD1
 BD1 version 1. A poorly 3D printed robot that vaguely resembles BD1 from Jedi Star Wars Fallen Order
-
+Here is what it currently looks like: https://imgur.com/a/l0Rq1Mq
 
 Currently this bot is equiped with a 32Longx8High LED matrix, an ultrasonic sensor, a picamera and two servos.
 The bot is controlled via discord, however some things are also automated.
